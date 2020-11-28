@@ -1,0 +1,2 @@
+#!/bin/bash
+DPkg::Post-Invoke {"/bin/bash /boot/firmware/auto_decompress_kernel"; };
