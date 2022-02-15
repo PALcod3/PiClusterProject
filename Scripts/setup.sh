@@ -3,3 +3,4 @@
 sudo apt-get update
 sudo apt-get upgrade
 sudo shutdown -r now
+#Continue with setup2.sh
